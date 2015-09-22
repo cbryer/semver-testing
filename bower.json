@@ -4,6 +4,7 @@
   "homepage": "https://github.com/cbryer/semver-testing",
   "description": "semver bower testing",
   "license": "MIT",
+  "main":"script.js",
   "ignore": [
     "**/.*",
     "node_modules",
